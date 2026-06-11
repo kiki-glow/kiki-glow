@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kinya</h1>
+<h1 align="center">Hi, I'm Kinya</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%7C+FastAPI+%7C+Flask;React+%7C+Next.js+%7C+Vue;Building+real+projects+not+just+theory" />
@@ -14,17 +14,17 @@ Software Developer focused on building practical web applications and backend sy
 
 ---
 
-## ⚡ About Me
+## About Me
 
-* 🔭 I build and maintain real web applications
-* 🧠 Focused on backend systems, APIs, and frontend interfaces
-* 🌱 Currently improving system design and scalable architecture
-* 💬 Comfortable working with Python, JavaScript, and databases
-* ⚡ I prefer building working systems over theoretical projects
+* I build and maintain real web applications
+* Focused on backend systems, APIs, and frontend interfaces
+* Currently improving system design and scalable architecture
+* Comfortable working with Python, JavaScript, and databases
+* I prefer building working systems over theoretical projects
 
 ---
 
-## 🧰 Tech Stack (Used in real projects)
+## Tech Stack (Used in real projects)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,nodejs,react,nextjs,vue,postgres,mysql,mongodb,git,github,postman,photoshop" />
@@ -32,7 +32,7 @@ Software Developer focused on building practical web applications and backend sy
 
 ---
 
-## 📌 Featured Projects (Real Work)
+## Featured Projects (Real Work)
 
 All projects below are actual repositories I’ve built or contributed to:
 
@@ -44,7 +44,7 @@ AI-powered resume analysis web app.
 * Web-based interface for users
 * Focus: practical AI-assisted tooling
 
-👉 https://github.com/kiki-glow/ResuSensei
+https://github.com/kiki-glow/ResuSensei
 
 ---
 
@@ -56,7 +56,7 @@ Financial dashboard UI with mock data.
 * Data visualization structure
 * Frontend design practice project
 
-👉 https://github.com/kiki-glow/FinHub-v1.1
+https://github.com/kiki-glow/FinHub-v1.1
 
 ---
 
@@ -72,18 +72,6 @@ Meal suggestion generator.
 
 ---
 
-### 🔹 Emma
-
-PHP-based web project.
-
-* Server-side scripting with PHP
-* Lightweight backend logic
-* Experimental full-stack practice
-
-👉 https://github.com/opiyodon/emma
-
----
-
 ### 🔹 My-ToDo-PWA
 
 Progressive Web App todo list.
@@ -92,7 +80,7 @@ Progressive Web App todo list.
 * Flask backend API
 * Installable web app
 
-👉 https://github.com/kiki-glow/My-ToDo-PWA
+https://github.com/kiki-glow/My-ToDo-PWA
 
 ---
 
@@ -104,11 +92,11 @@ Offline Bible desktop application.
 * Lightweight local-first design
 * Focus on accessibility and usability
 
-👉 https://github.com/kiki-glow/Word-Of-Truth
+https://github.com/kiki-glow/Word-Of-Truth
 
 ---
 
-## 📊 GitHub Activity (Real Data Only)
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiki-glow&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -124,7 +112,7 @@ Offline Bible desktop application.
 
 ---
 
-## ⚠️ Notes on this data
+## Notes on this data
 
 * Language stats reflect repository code, not expertise level
 * GitHub stats reflect public activity only
@@ -133,7 +121,7 @@ Offline Bible desktop application.
 
 ---
 
-## 🚀 What I Focus On
+## What I Focus On
 
 * Building functional full-stack applications
 * Improving backend API design
@@ -142,7 +130,7 @@ Offline Bible desktop application.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/kiki-glow">
