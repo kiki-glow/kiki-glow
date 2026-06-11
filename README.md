@@ -68,7 +68,7 @@ Meal suggestion generator.
 * Simple interactive UI
 * Focus on usability and simplicity
 
-👉 https://github.com/kiki-glow/KenyaCooks
+https://github.com/kiki-glow/KenyaCooks
 
 ---
 
