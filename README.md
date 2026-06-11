@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kinya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%7C+FastAPI+%7C+Flask+Engineer;React+%7C+Next.js+%7C+Vue+Builder;API+%26+System+Architect;Clean+Code+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Python+%7C+FastAPI+%7C+Flask;React+%7C+Next.js+%7C+Vue;Building+real+projects+not+just+theory" />
 </p>
 
 <p align="center">
-  <b>Software Developer • UI Designer</b>
-</p>
-
-<p align="center">
-I build scalable systems, clean APIs, and modern web experiences.
+Software Developer focused on building practical web applications and backend systems.
 </p>
 
 <p align="center">
@@ -20,106 +16,106 @@ I build scalable systems, clean APIs, and modern web experiences.
 
 ## ⚡ About Me
 
-* 🧠 Focused on **scalable backend systems & modern web apps**
-* 🔭 Building full-stack apps with Python & JavaScript
-* 🌱 Learning system design, cloud architecture & performance optimization
-* 💬 Ask me about FastAPI, Flask, React, Node.js, databases
-* ⚡ I turn ideas into production-ready systems
+* 🔭 I build and maintain real web applications
+* 🧠 Focused on backend systems, APIs, and frontend interfaces
+* 🌱 Currently improving system design and scalable architecture
+* 💬 Comfortable working with Python, JavaScript, and databases
+* ⚡ I prefer building working systems over theoretical projects
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (Used in real projects)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,nodejs,react,nextjs,vue,postgres,mysql,mongodb,git,github,postman,photoshop" />
 </p>
 
 ---
-## 📌 Featured Projects
 
-<p align="center">
-  <em>A selection of my pinned GitHub projects</em>
-</p>
+## 📌 Featured Projects (Real Work)
 
----
+All projects below are actual repositories I’ve built or contributed to:
 
 ### 🔹 ResuSensei
 
-AI-powered resume analyzer web app that evaluates CVs and provides improvement suggestions.
+AI-powered resume analysis web app.
 
-* 🧠 AI-driven resume feedback
-* 🌐 Web-based interface
-* 📄 Focused on career optimization
+* Resume evaluation + feedback system
+* Web-based interface for users
+* Focus: practical AI-assisted tooling
 
-[View Project](https://github.com/kiki-glow/ResuSensei)
+👉 https://github.com/kiki-glow/ResuSensei
 
 ---
 
 ### 🔹 FinHub-v1.1
 
-Financial dashboard UI built with mock data for tracking and visualizing financial insights.
+Financial dashboard UI with mock data.
 
-* 📊 Clean financial UI design
-* 📈 Mock analytics dashboard
-* 🎯 Focus on UX structure
+* UI/UX-focused dashboard layout
+* Data visualization structure
+* Frontend design practice project
 
-[View Project](https://github.com/kiki-glow/FinHub-v1.1)
+👉 https://github.com/kiki-glow/FinHub-v1.1
 
 ---
 
 ### 🔹 KenyaCooks
 
-Meal generator web app for suggesting recipes and food ideas.
+Meal suggestion generator.
 
-* 🍲 Dynamic meal suggestions
-* 🇰🇪 Localized food inspiration
-* 🎨 Simple UI experience
+* Recipe suggestion logic
+* Simple interactive UI
+* Focus on usability and simplicity
 
-[View Project](https://github.com/kiki-glow/KenyaCooks)
+👉 https://github.com/kiki-glow/KenyaCooks
 
 ---
 
 ### 🔹 Emma
 
-PHP-based project with backend logic and dynamic functionality.
+PHP-based web project.
 
-* ⚙️ PHP backend system
-* 🔄 Server-side rendering logic
-* 🧩 Lightweight architecture
+* Server-side scripting with PHP
+* Lightweight backend logic
+* Experimental full-stack practice
 
-[View Project](https://github.com/opiyodon/emma)
+👉 https://github.com/opiyodon/emma
 
 ---
 
 ### 🔹 My-ToDo-PWA
 
-Progressive Web App todo list with Flask backend and offline support.
+Progressive Web App todo list.
 
-* 📱 Installable PWA
-* 📴 Offline functionality
-* 🧠 Flask-powered backend
+* Offline-first PWA design
+* Flask backend API
+* Installable web app
 
-[View Project](https://github.com/kiki-glow/My-ToDo-PWA)
+👉 https://github.com/kiki-glow/My-ToDo-PWA
 
 ---
 
 ### 🔹 Word-Of-Truth
 
-Offline desktop Bible application built with TypeScript.
+Offline Bible desktop application.
 
-* 📖 Offline scripture access
-* 💻 Desktop-focused experience
-* ⚡ Lightweight TypeScript app
+* Offline desktop app in TypeScript
+* Lightweight local-first design
+* Focus on accessibility and usability
 
-[View Project](https://github.com/kiki-glow/Word-Of-Truth)
+👉 https://github.com/kiki-glow/Word-Of-Truth
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity (Real Data Only)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kiki-glow&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-glow&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kiki-glow&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-glow&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -128,29 +124,21 @@ Offline desktop Bible application built with TypeScript.
 
 ---
 
-## 🏆 GitHub Achievements
+## ⚠️ Notes on this data
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiki-glow&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kiki-glow/kiki-glow/output/github-snake.svg" />
-</p>
+* Language stats reflect repository code, not expertise level
+* GitHub stats reflect public activity only
+* Some projects are UI-focused or experimental
+* This profile represents practical work, not certifications
 
 ---
 
-## 🚀 What I Build
+## 🚀 What I Focus On
 
-* 🔹 REST APIs (FastAPI / Flask / Node.js)
-* 🔹 Full-stack apps (React / Next.js / Vue)
-* 🔹 Scalable backend systems & microservices
-* 🔹 Database-driven platforms (SQL & NoSQL)
-* 🔹 Clean UI/UX interfaces
+* Building functional full-stack applications
+* Improving backend API design
+* Creating simple, usable frontends
+* Learning through real projects
 
 ---
 
@@ -165,5 +153,5 @@ Offline desktop Bible application built with TypeScript.
 ---
 
 <p align="center">
-  <b>“Build. Break. Learn. Repeat.”</b>
+  <b>“Build. Test. Improve. Repeat.”</b>
 </p>
