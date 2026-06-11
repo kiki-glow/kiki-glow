@@ -24,7 +24,7 @@ Software Developer focused on building practical web applications and backend sy
 
 ---
 
-## Tech Stack (Used in real projects)
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,nodejs,react,nextjs,vue,postgres,mysql,mongodb,git,github,postman,photoshop" />
@@ -32,7 +32,7 @@ Software Developer focused on building practical web applications and backend sy
 
 ---
 
-## Featured Projects (Real Work)
+## Featured Projects 
 
 All projects below are actual repositories I’ve built or contributed to:
 
