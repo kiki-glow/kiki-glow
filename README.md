@@ -20,7 +20,6 @@ Software Developer focused on building practical web applications and backend sy
 * Focused on backend systems, APIs, and frontend interfaces
 * Currently improving system design and scalable architecture
 * Comfortable working with Python, JavaScript, and databases
-* I prefer building working systems over theoretical projects
 
 ---
 
